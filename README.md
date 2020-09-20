@@ -1,2 +1,2 @@
 # BinaryClassificationRNN
-Exploring classification of binaries as images with RNN
+Exploring classification of binaries as images with RNN.
